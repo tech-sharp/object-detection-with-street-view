@@ -18,4 +18,4 @@ Contributors Github pages:
 
 [Efehan Danışman](https://github.com/efehandanisman)
 
-[Sefa Kurtipek](https://github.com/sefakurtipek)
+[Sefa Kurtipek](https://github.com/sefakurtipek)
